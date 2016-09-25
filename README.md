@@ -15,11 +15,9 @@ The script does the following:
    
 6. Assigin descriptive variable names to the variables in the merged_df w.r.t variables described in the "features.txt"
  
-7. Extract mean and std. dev. data from the merged dF using the regular expression:
-   (mean\\(\\)|std\\(\\))
+7. Extract mean and std. dev. data from the merged data frame
    
-8. Extract mean data from the data frame created in step 7 using the regular expression:
-   (mean\\(\\)
+8. Extract mean data from the data frame created in step 7.
 
 9. Create tab delimated table the first row of which contains the variable names of each column
    File created: answer.txt
