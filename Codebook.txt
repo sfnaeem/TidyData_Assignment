@@ -1,0 +1,43 @@
+VARIABLES DATA DICTIONARY FOR ANSWER.TXT TABLE
+
+subject:
+1 - 30
+
+activity:
+walking, walking_upstairs, walking_downstairs, sitting, standing, and laying
+
+
+tbodyacc.mean...x: mean x-coord for data acquired for body acc.
+
+tbodyacc.mean...y: mean y-coord for data acquired for body acc.
+
+tbodyacc.mean...z: mean z-coord for data acquired for body acc.
+
+tgravityacc.mean...x: mean x-coord for data acquired for body gravity.
+
+tgravityacc.mean...y: mean y-coord for data acquired for body gravity.
+
+tgravityacc.mean...z: mean z-coord for data acquired for body gravity.
+
+tbodyaccjerk.mean()...x: mean x-coord for data acquired for body jerk.
+
+tbodyaccjerk.mean()...y: mean y-coord for data acquired for body jerk.
+
+tbodyaccjerk.mean()...z: mean z-coord for data acquired for body jerk.
+
+tbodygyro.mean()...x: mean x-coord for data acquired for body gyro.
+
+tbodygyro.mean()...y: mean y-coord for data acquired for body gyro.
+
+tbodygyro.mean()...z: mean z-coord for data acquired for body gyro.
+
+tbodygyrojerk.mean()...x: mean x-coord for data acquired for body gyro jerk.
+
+tbodygyrojerk.mean()...y: mean y-coord for data acquired for body gyro jerk.
+
+tbodygyrojerk.mean()...z: mean z-coord for data acquired for body gyro jerk.
+
+...
+...
+
+The remaining variable names are self-descriptive!
